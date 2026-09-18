@@ -2,7 +2,7 @@
 Transcription d'un patch MAX vers PureData
 
 ### A propos ###
-Le patch provient de la pièce Ricercare, créé par Jonathan Harvey. Le patch est réadapté, optimisé, et parfois simplifié : en effet, j'y ai ajouté, par exemple, la partie buffer, mais elle ne fonctionne pas : je voulais juste ajouter cette partie par apprentissage, et par fidélité du patch en question. La notion de buffer est plus compliquée sur PureData que sur MAX, d'où mes difficultés rencontrées, et une non fonctionnalité de cette partie. *
+Le patch provient de la pièce Ricercare, créé par Jonathan Harvey en 1984. Le patch est réadapté, optimisé, et parfois simplifié : en effet, j'y ai ajouté, par exemple, la partie buffer, mais elle ne fonctionne pas : je voulais juste ajouter cette partie par apprentissage, et par fidélité du patch en question. La notion de buffer est plus compliquée sur PureData que sur MAX, d'où mes difficultés rencontrées, et une non fonctionnalité de cette partie. 
 
 J'y ai ajouté un module par rapport au patch initial: on peut non seulement lancer la patch avec la musique, mais aussi activer le micro de l'ordinateur, et jouer les effets du patch. 
 
